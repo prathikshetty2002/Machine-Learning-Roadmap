@@ -1,11 +1,13 @@
 #install these libraries:
 
 pip install numpy
+pip install pandas
 pip install matplotlib
 pip install sklearn
 
 #For anaconda IDE:
 
 conda install numpy
+conda install pandas
 conda install matplotlib
 conda install sklearn
