@@ -3,4 +3,4 @@ This repository has machine learning tutorials that i have created with the help
 The repo also contains my projects that i have created through youtube , hackathons ,internships and my self content. A lot of learning is to be served on your way!
 I have tried to provide a roadmap for beginners exploring the field of Machine learning.
 I have also added lessons from Data Camp to this section. They have a really awesome range of content. I hope you like it <3
-stay tuned for fun! Open Source <3 !
+ Open Source <3 !
